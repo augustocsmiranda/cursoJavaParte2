@@ -5,7 +5,7 @@ import java.util.Date;
 import Entities.Order;
 import Entities.OrderStatus;
 
-public class App {
+public class AppUm {
     public static void main(String[] args) throws Exception {
         
         Order order = new Order(1080, new Date(), OrderStatus.PENDING_PAYMENT);
