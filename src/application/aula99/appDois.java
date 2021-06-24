@@ -1,14 +1,14 @@
-package application;
+package application.aula99;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import Entities.Department;
-import Entities.HourContract;
-import Entities.Worker;
-import Entities.enums.WorkerLevel;
+import application.aula99.Entities.Department;
+import application.aula99.Entities.HourContract;
+import application.aula99.Entities.Worker;
+import application.aula99.Entities.enums.WorkerLevel;
 
 public class appDois {
     public static void main(String[] args) throws ParseException {

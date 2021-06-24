@@ -1,4 +1,4 @@
-package Entities;
+package application.aula99.Entities;
 
 import java.util.Date;
 

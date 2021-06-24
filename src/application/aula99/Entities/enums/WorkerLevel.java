@@ -1,4 +1,4 @@
-package Entities.enums;
+package application.aula99.Entities.enums;
 
 public enum WorkerLevel {
     JUNIOR,

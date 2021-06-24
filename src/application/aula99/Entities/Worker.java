@@ -1,10 +1,10 @@
-package Entities;
+package application.aula99.Entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import Entities.enums.WorkerLevel;
+import application.aula99.Entities.enums.WorkerLevel;
 
 public class Worker {
     

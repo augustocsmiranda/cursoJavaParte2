@@ -1,4 +1,4 @@
-package Entities;
+package application.aula99.Entities;
 
 //import java.sql.Date;
 import java.util.Date;

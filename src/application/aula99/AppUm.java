@@ -1,9 +1,10 @@
-package application;
+package application.aula99;
 
 //import java.sql.Date;
 import java.util.Date;
-import Entities.Order;
-import Entities.OrderStatus;
+
+import application.aula99.Entities.Order;
+import application.aula99.Entities.OrderStatus;
 
 public class AppUm {
     public static void main(String[] args) throws Exception {
