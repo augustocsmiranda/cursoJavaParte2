@@ -59,6 +59,8 @@ public class app {
 
         System.out.println();
         System.out.println(order);
+        System.out.println(order);
+        
 
        /* Product p = new Product("TV", 1000.0);
 
