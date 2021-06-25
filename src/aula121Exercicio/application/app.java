@@ -56,19 +56,8 @@ public class app {
             OrderItem it = new OrderItem(quantity, productPrice, product);
             order.addItem(it);
         }
-
         System.out.println();
         System.out.println(order);
-        System.out.println(order);
-        
-
-       /* Product p = new Product("TV", 1000.0);
-
-        OrderItem oi1 = new OrderItem(1, 1000.0, p);
-
-        System.out.println(oi1);*/
-
-        //Client client = new Client("Maria", "maria@gmail.com", sdf.parse("20/10/1995"));
         sc.close();
     }
 }
