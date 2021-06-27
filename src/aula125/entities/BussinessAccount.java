@@ -25,7 +25,7 @@ public class BussinessAccount extends Account{
     public void setLoanLimite(Double loanLimite) {
         this.loanLimit = loanLimite;
     }
-
+    //Teste git diff
     //Creditar Emprestimo
     public void loan(double amount){
         //Validar se quantia for menos ou igual ao limite de emprestimo
@@ -34,5 +34,11 @@ public class BussinessAccount extends Account{
             balance += amount - 10.0;
 
         }       
+    }
+
+    @Override
+    public void withdraw(double amount){
+        super.withdraw(amount);
+        balance -= 2.0;
     }
 }
