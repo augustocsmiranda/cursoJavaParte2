@@ -11,7 +11,6 @@ public class Circle extends Shape{
     }
 
     
-
     public Circle(Color color, Double radius) {
         super(color);
         this.radius = radius;
@@ -36,7 +35,7 @@ public class Circle extends Shape{
 
     @Override
     public double area() {
-        // TODO Auto-generated method stub
+        
         return Math.PI * radius * radius;
     }
         

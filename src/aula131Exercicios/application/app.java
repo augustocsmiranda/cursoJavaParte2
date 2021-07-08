@@ -53,5 +53,6 @@ public class app {
             for(Product prod: list){
                 System.out.println(prod.priceTag());
             }
+            sc.close();
     }
 }

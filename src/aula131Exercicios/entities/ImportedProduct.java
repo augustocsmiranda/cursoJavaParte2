@@ -1,6 +1,6 @@
 package aula131Exercicios.entities;
 
-import java.util.jar.Attributes.Name;
+//import java.util.jar.Attributes.Name;
 
 public class ImportedProduct extends Product{
 

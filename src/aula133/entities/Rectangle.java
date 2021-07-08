@@ -40,7 +40,6 @@ public void setHeight(Double height) {
 
     @Override
     public double area() {
-        // TODO Auto-generated method stub
         return width * height; 
     
     }

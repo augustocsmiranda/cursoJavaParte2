@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthSpinnerUI;
+//import javax.swing.plaf.synth.SynthSpinnerUI;
 
 import aula133.entities.Circle;
 import aula133.entities.Rectangle;
